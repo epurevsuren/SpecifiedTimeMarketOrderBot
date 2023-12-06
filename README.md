@@ -1,2 +1,2 @@
-# SpecifiedTimeMarketOrderBot
- Execute Market Order on specified time frame with Symbol
+# SpecifiedTimeMarketOrdercBot
+ Execute Market Order on specified time frame with Symbol (cTrader)
