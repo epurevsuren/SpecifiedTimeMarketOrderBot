@@ -37,7 +37,7 @@ namespace cAlgo.Robots
         [Parameter("Bear Sentiment", Group = "Protection", DefaultValue = true)]
         public bool bearSentiment { get; set; }
 
-        string label = "Friday Night Celebration cBot";
+        string label = "Specified Time Market Order cBot";
 
 
 
